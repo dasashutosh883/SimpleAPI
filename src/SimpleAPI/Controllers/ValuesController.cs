@@ -10,5 +10,10 @@ namespace SimpleAPI.Controllers
         {
             return "hello , G Gobinda Whats up";
         }
+        [HttpGet("status")]
+        public ActionResult<string> GetStatus(int id)
+        {
+            return "api is running"+DateTime.Now;
+        }
     }
 }
