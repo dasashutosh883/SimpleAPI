@@ -1,0 +1,5 @@
+{"Timestamp":"2024-07-24T15:22:21.7045464+05:30","Level":"Information","MessageTemplate":"Now listening on: {address}","Properties":{"address":"http://localhost:5254","EventId":{"Id":14,"Name":"ListeningOnAddress"},"SourceContext":"Microsoft.Hosting.Lifetime"}}
+{"Timestamp":"2024-07-24T15:22:21.7661385+05:30","Level":"Information","MessageTemplate":"Application started. Press Ctrl+C to shut down.","Properties":{"SourceContext":"Microsoft.Hosting.Lifetime"}}
+{"Timestamp":"2024-07-24T15:22:21.7681011+05:30","Level":"Information","MessageTemplate":"Hosting environment: {EnvName}","Properties":{"EnvName":"Development","SourceContext":"Microsoft.Hosting.Lifetime"}}
+{"Timestamp":"2024-07-24T15:22:21.7697682+05:30","Level":"Information","MessageTemplate":"Content root path: {ContentRoot}","Properties":{"ContentRoot":"D:\\projectsPractice\\AzureDevops\\src\\SimpleAPI","SourceContext":"Microsoft.Hosting.Lifetime"}}
+{"Timestamp":"2024-07-24T15:22:24.8444338+05:30","Level":"Information","MessageTemplate":"Application is shutting down...","Properties":{"SourceContext":"Microsoft.Hosting.Lifetime"}}

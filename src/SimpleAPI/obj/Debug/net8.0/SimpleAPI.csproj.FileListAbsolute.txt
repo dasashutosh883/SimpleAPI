@@ -30,3 +30,14 @@ d:\projectsPractice\AzureDevops\src\SimpleAPI\obj\Debug\net8.0\refint\SimpleAPI.
 d:\projectsPractice\AzureDevops\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.pdb
 d:\projectsPractice\AzureDevops\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.genruntimeconfig.cache
 d:\projectsPractice\AzureDevops\src\SimpleAPI\obj\Debug\net8.0\ref\SimpleAPI.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\projectsPractice\AzureDevops\src\SimpleAPI\obj\Debug\net8.0\SimpleAPI.sourcelink.json
