@@ -9,7 +9,7 @@ namespace SimpleAPI.Services
             host.UseSerilog(configureLogger:(ContextBoundObject,loggerConfig)=>
             {
                 loggerConfig.WriteTo.Console();
-                loggerConfig.WriteTo.File(new JsonFormatter(),path:"Logs/applogs-.text",rollingInterval:RollingInterval.Day);
+                loggerConfig.WriteTo.File(new JsonFormatter(),path:"Logs/applogs-.txt",rollingInterval:RollingInterval.Day);
             });
         }
     }
