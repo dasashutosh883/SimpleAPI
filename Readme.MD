@@ -3,7 +3,7 @@
 
 ## Description
 
-A .NET Core Web API project that provides [brief description of the API's purpose]. This project also includes a test project to ensure the quality and reliability of the API. Continuous Integration and Continuous Deployment (CI/CD) are managed using Azure DevOps.
+A .NET Core Web API project that provides SimpleApi. This project also includes a test project to ensure the quality and reliability of the API. Continuous Integration and Continuous Deployment (CI/CD) are managed using Azure DevOps.
 
 ## Table of Contents
 
